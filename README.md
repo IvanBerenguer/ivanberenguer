@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Berenguer</h1>
 <h3 align="center">A Backend Developer</h3>
 
-- 🔭 I’m currently working on **github projects**
+- 🔭 I’m currently working on ** Personal github projects**
 
 - 🌱 I’m currently learning **MongoDB**
 
